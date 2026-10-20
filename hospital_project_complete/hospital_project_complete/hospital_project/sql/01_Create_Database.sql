@@ -1,0 +1,4 @@
+IF DB_ID('HospitalDB') IS NULL CREATE DATABASE HospitalDB;
+GO
+USE HospitalDB;
+GO

@@ -1,0 +1,13 @@
+Dataset,RawRows,CleanRows,RawMissing,CleanMissing,RawDuplicates,CleanDuplicates
+departments,12,12,0,0,0,0
+employees,525,520,46,0,5,0
+patients,1212,1200,96,0,12,0
+attendance,3535,3501,212,70,34,0
+appointments,2424,2400,146,0,24,0
+admissions,656,650,36,0,6,0
+medical_records,1818,1800,110,18,18,0
+medicines,242,240,15,0,2,0
+prescriptions,1818,1800,108,0,18,0
+invoices,1111,1100,122,0,11,0
+payments,1666,1650,66,0,16,0
+rooms,222,220,10,0,2,0

@@ -1,0 +1,13 @@
+DepartmentID,DepartmentName,Location,Phone
+1,Emergency,Building C,1095822412
+2,Cardiology,Building A,1024942603
+3,Pediatrics,Building C,1013356886
+4,Orthopedics,Building C,1046913810
+5,Neurology,Building A,1042868828
+6,General Medicine,Building A,1039958838
+7,Surgery,Building C,1028728463
+8,Dermatology,Building B,1023756669
+9,Radiology,Building C,1083197857
+10,Pharmacy,Building C,1021668732
+11,Internal Medicine,Building C,1089254563
+12,Outpatient,Building C,1066629388
